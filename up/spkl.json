@@ -1,7 +1,7 @@
 {
     "webresources": [
       {
-        "root": "./",
+        "root": "../WebResources/",
         "files": [
           {
             "uniquename": "cre88_ContactoJS",
