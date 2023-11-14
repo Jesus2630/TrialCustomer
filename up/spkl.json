@@ -1,0 +1,19 @@
+{
+    "webresources": [
+      {
+        "root": "./",
+        "files": [
+          {
+            "uniquename": "cre88_ContactoJS",
+            "file": "../Contacto.js",
+            "description": "Web Resource"
+          },
+          {
+            "uniquename": "cre88_CuentaJS",
+            "file": "../Cuenta.js",
+            "description": "Web Resource"
+          }
+        ]
+      }
+    ]
+  }

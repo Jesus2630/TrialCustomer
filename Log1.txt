@@ -1,0 +1,150 @@
+14:52:16	Deploying WebResources
+14:52:50	Deploying WebResources
+14:52:50	Using Config 'C:\ScriptsDynamics\Section1\up'
+14:53:55	Deploying WebResources
+14:53:55	Using Config 'C:\ScriptsDynamics\Section1\up'
+14:53:55	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+14:54:00	Deployed 1 webresource(s)
+14:54:00	Publishing 1 webresources...
+14:54:40	Publish complete.
+14:54:40	Processed 1 section(s)
+14:54:40	Processed 1 config(s)
+15:25:13	Deploying WebResources
+15:25:13	Using Config 'C:\ScriptsDynamics\Section1\up'
+15:25:13	cre88_ContactoJS has not changed, skipping...
+15:25:13	Deployed 0 webresource(s)
+15:25:13	Publishing 0 webresources...
+15:25:13	Publish complete.
+15:25:13	Processed 1 section(s)
+15:25:13	Processed 1 config(s)
+15:29:42	Deploying WebResources
+15:29:42	Using Config 'C:\ScriptsDynamics\Section1\up'
+15:29:42	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+15:29:49	Deployed 1 webresource(s)
+15:29:49	Publishing 1 webresources...
+15:30:27	Publish complete.
+15:30:27	Processed 1 section(s)
+15:30:27	Processed 1 config(s)
+21:46:55	Deploying WebResources
+21:46:55	Using Config 'C:\ScriptsDynamics\Section1\up'
+21:46:56	cre88_ContactoJS has not changed, skipping...
+21:46:56	Deployed 0 webresource(s)
+21:46:56	Publishing 0 webresources...
+21:46:56	Publish complete.
+21:46:56	Processed 1 section(s)
+21:46:56	Processed 1 config(s)
+21:49:17	Deploying WebResources
+21:49:17	Using Config 'C:\ScriptsDynamics\Section1\up'
+21:49:18	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+21:49:31	Deployed 1 webresource(s)
+21:49:31	Publishing 1 webresources...
+21:50:05	Publish complete.
+21:50:05	Processed 1 section(s)
+21:50:05	Processed 1 config(s)
+21:54:08	Deploying WebResources
+21:54:08	Using Config 'C:\ScriptsDynamics\Section1\up'
+21:54:09	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+21:54:11	Deployed 1 webresource(s)
+21:54:11	Publishing 1 webresources...
+21:54:33	Publish complete.
+21:54:33	Processed 1 section(s)
+21:54:33	Processed 1 config(s)
+22:05:01	Deploying WebResources
+22:05:01	Using Config 'C:\ScriptsDynamics\Section1\up'
+22:05:02	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+22:05:29	Deployed 1 webresource(s)
+22:05:29	Publishing 1 webresources...
+22:06:08	Publish complete.
+22:06:08	Processed 1 section(s)
+22:06:08	Processed 1 config(s)
+22:13:03	Deploying WebResources
+22:13:03	Using Config 'C:\ScriptsDynamics\Section1\up'
+22:13:04	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+22:13:11	Deployed 1 webresource(s)
+22:13:11	Publishing 1 webresources...
+22:13:38	Publish complete.
+22:13:38	Processed 1 section(s)
+22:13:38	Processed 1 config(s)
+22:15:20	Deploying WebResources
+22:15:20	Using Config 'C:\ScriptsDynamics\Section1\up'
+22:15:21	Updating Webresource '../Contacto.js' -> 'cre88_ContactoJS'
+22:15:24	Deployed 1 webresource(s)
+22:15:24	Publishing 1 webresources...
+22:15:43	Publish complete.
+22:15:43	Processed 1 section(s)
+22:15:43	Processed 1 config(s)
+22:17:36	Deploying WebResources
+22:17:36	Using Config 'C:\ScriptsDynamics\Section1\up'
+22:17:37	cre88_ContactoJS has not changed, skipping...
+22:17:56	Deploying WebResources
+22:17:56	Using Config 'C:\ScriptsDynamics\Section1\up'
+22:17:56	cre88_ContactoJS has not changed, skipping...
+22:17:56	Creating Webresource '../JavaScript.js' -> 'cre88_JavaScript'
+22:18:00	Deployed 1 webresource(s)
+22:18:00	Publishing 1 webresources...
+22:18:18	Publish complete.
+22:18:18	Processed 1 section(s)
+22:18:18	Processed 1 config(s)
+22:58:42	Deploying WebResources
+22:58:42	Using Config 'C:\ScriptsDynamics\Section1\up'
+22:58:42	cre88_ContactoJS has not changed, skipping...
+22:58:42	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+22:58:44	Deployed 1 webresource(s)
+22:58:44	Publishing 1 webresources...
+22:58:50	Publish complete.
+22:58:50	Processed 1 section(s)
+22:58:50	Processed 1 config(s)
+23:01:50	Deploying WebResources
+23:01:50	Using Config 'C:\ScriptsDynamics\Section1\up'
+23:01:51	cre88_ContactoJS has not changed, skipping...
+23:01:51	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+23:01:57	Deployed 1 webresource(s)
+23:01:57	Publishing 1 webresources...
+23:02:55	Publish complete.
+23:02:55	Processed 1 section(s)
+23:02:55	Processed 1 config(s)
+23:06:09	Deploying WebResources
+23:06:09	Using Config 'C:\ScriptsDynamics\Section1\up'
+23:06:09	cre88_ContactoJS has not changed, skipping...
+23:06:09	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+23:06:12	Deployed 1 webresource(s)
+23:06:12	Publishing 1 webresources...
+23:06:21	Publish complete.
+23:06:21	Processed 1 section(s)
+23:06:21	Processed 1 config(s)
+23:07:51	Deploying WebResources
+23:07:51	Using Config 'C:\ScriptsDynamics\Section1\up'
+23:07:51	cre88_ContactoJS has not changed, skipping...
+23:07:51	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+23:07:55	Deployed 1 webresource(s)
+23:07:55	Publishing 1 webresources...
+23:08:19	Publish complete.
+23:08:19	Processed 1 section(s)
+23:08:19	Processed 1 config(s)
+23:09:06	Deploying WebResources
+23:09:06	Using Config 'C:\ScriptsDynamics\Section1\up'
+23:09:07	cre88_ContactoJS has not changed, skipping...
+23:09:07	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+23:09:09	Deployed 1 webresource(s)
+23:09:09	Publishing 1 webresources...
+23:09:18	Publish complete.
+23:09:18	Processed 1 section(s)
+23:09:18	Processed 1 config(s)
+23:10:12	Deploying WebResources
+23:10:12	Using Config 'C:\ScriptsDynamics\Section1\up'
+23:10:12	cre88_ContactoJS has not changed, skipping...
+23:10:12	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+23:10:18	Deployed 1 webresource(s)
+23:10:18	Publishing 1 webresources...
+23:10:28	Publish complete.
+23:10:28	Processed 1 section(s)
+23:10:28	Processed 1 config(s)
+23:12:17	Deploying WebResources
+23:12:17	Using Config 'C:\ScriptsDynamics\Section1\up'
+23:12:17	cre88_ContactoJS has not changed, skipping...
+23:12:17	Updating Webresource '../Cuenta.js' -> 'cre88_CuentaJS'
+23:12:20	Deployed 1 webresource(s)
+23:12:20	Publishing 1 webresources...
+23:12:25	Publish complete.
+23:12:25	Processed 1 section(s)
+23:12:25	Processed 1 config(s)
