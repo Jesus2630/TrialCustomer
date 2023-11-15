@@ -27,8 +27,22 @@ validarPais = function (context){
     if(pais == null){
         context.getControl("address1_country").setLabel("Código ZIP-Postal")
     }
-
-
-
 }
 
+
+Displayed = function(primaryControl)
+{
+    var formContext = primaryControl;
+    Xrm.Navigation.openAlertDialog({ 
+        text: "Hay un registro duplicado",
+        confirmButtonLabel: "Ok",
+        title: formContext.getAttribute("name").getValue()
+    }).then(function(success) {
+        Xrm.Navigation.openConfirmDialog(
+            {
+                text: "Texto de confirmación",
+            }
+        );  
+    });
+    //Xrm.Navigation.openErrorDialog({ message: "Error" });
+}

@@ -27,7 +27,7 @@ this.validarSocio = function (formContext)
             formContext.getControl("pb_credencial").clearNotification("credencial");
         }, 3000);
 
-        
+        //Prueba
         return false;
     }
 

@@ -148,3 +148,120 @@
 23:12:25	Publish complete.
 23:12:25	Processed 1 section(s)
 23:12:25	Processed 1 config(s)
+14:53:13	Deploying WebResources
+14:53:13	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+14:54:14	Deploying WebResources
+14:54:14	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+14:54:15	Creating Webresource 'Contacto.js' -> 'cre88_ContactoJS'
+14:54:18	Adding to solution 'VersionUno'
+14:56:48	Deploying WebResources
+14:56:48	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+14:56:48	Updating Webresource 'Contacto.js' -> 'cre88_ContactoJS'
+14:56:54	Adding to solution 'VersionUno'
+14:56:55	cre88_CuentaJS has not changed, skipping...
+14:56:55	Deployed 1 webresource(s)
+14:56:55	Publishing 1 webresources...
+14:57:51	Deploying WebResources
+14:57:51	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+14:57:51	cre88_ContactoJS has not changed, skipping...
+14:57:52	Creating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+14:57:52	Adding to solution 'VersionUno'
+14:58:18	Deploying WebResources
+14:58:18	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+14:58:19	Updating Webresource 'Contacto.js' -> 'cre88_ContactoJS'
+14:59:16	cre88_CuentaJS has not changed, skipping...
+14:59:16	Deployed 1 webresource(s)
+14:59:16	Publishing 1 webresources...
+14:59:27	Publish complete.
+14:59:27	Processed 1 section(s)
+14:59:27	Processed 1 config(s)
+16:20:18	Deploying WebResources
+16:20:18	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+16:20:18	cre88_ContactoJS has not changed, skipping...
+16:20:18	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+16:20:28	Deployed 1 webresource(s)
+16:20:28	Publishing 1 webresources...
+16:20:52	Publish complete.
+16:20:52	Processed 1 section(s)
+16:20:52	Processed 1 config(s)
+16:35:32	Deploying WebResources
+16:35:32	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+16:35:32	cre88_ContactoJS has not changed, skipping...
+16:35:33	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+16:35:36	Deployed 1 webresource(s)
+16:35:36	Publishing 1 webresources...
+16:35:58	Publish complete.
+16:35:58	Processed 1 section(s)
+16:35:58	Processed 1 config(s)
+16:43:29	Deploying WebResources
+16:43:30	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+16:43:30	cre88_ContactoJS has not changed, skipping...
+16:43:30	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+16:43:32	Deployed 1 webresource(s)
+16:43:32	Publishing 1 webresources...
+16:43:37	Publish complete.
+16:43:37	Processed 1 section(s)
+16:43:37	Processed 1 config(s)
+17:15:50	Deploying WebResources
+17:15:50	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+17:15:51	cre88_ContactoJS has not changed, skipping...
+17:15:51	cre88_CuentaJS has not changed, skipping...
+17:15:51	Deployed 0 webresource(s)
+17:15:51	Publishing 0 webresources...
+17:15:51	Publish complete.
+17:15:51	Processed 1 section(s)
+17:15:51	Processed 1 config(s)
+17:16:49	Deploying WebResources
+17:16:49	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+17:16:49	cre88_ContactoJS has not changed, skipping...
+17:16:49	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+17:16:54	Deployed 1 webresource(s)
+17:16:54	Publishing 1 webresources...
+17:17:01	Publish complete.
+17:17:01	Processed 1 section(s)
+17:17:01	Processed 1 config(s)
+17:17:53	Deploying WebResources
+17:17:53	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+17:17:53	cre88_ContactoJS has not changed, skipping...
+17:17:53	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+17:17:55	Deployed 1 webresource(s)
+17:17:55	Publishing 1 webresources...
+17:18:00	Publish complete.
+17:18:00	Processed 1 section(s)
+17:18:00	Processed 1 config(s)
+09:41:33	Deploying WebResources
+09:41:33	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+09:41:34	cre88_ContactoJS has not changed, skipping...
+09:41:34	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+09:41:54	Deployed 1 webresource(s)
+09:41:54	Publishing 1 webresources...
+09:42:37	Publish complete.
+09:42:37	Processed 1 section(s)
+09:42:37	Processed 1 config(s)
+10:10:47	Deploying WebResources
+10:10:47	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+10:10:48	cre88_ContactoJS has not changed, skipping...
+10:10:48	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+10:10:58	Deployed 1 webresource(s)
+10:10:58	Publishing 1 webresources...
+10:11:24	Publish complete.
+10:11:24	Processed 1 section(s)
+10:11:24	Processed 1 config(s)
+10:11:53	Deploying WebResources
+10:11:53	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+10:11:53	cre88_ContactoJS has not changed, skipping...
+10:11:53	cre88_CuentaJS has not changed, skipping...
+10:11:53	Deployed 0 webresource(s)
+10:11:53	Publishing 0 webresources...
+10:11:53	Publish complete.
+10:11:53	Processed 1 section(s)
+10:11:53	Processed 1 config(s)
+10:12:11	Deploying WebResources
+10:12:11	Using Config 'D:\Personal\Escritorio\Scripts\CustomerTrial\Trial\up'
+10:12:11	cre88_ContactoJS has not changed, skipping...
+10:12:11	Updating Webresource 'Cuenta.js' -> 'cre88_CuentaJS'
+10:12:13	Deployed 1 webresource(s)
+10:12:13	Publishing 1 webresources...
+10:12:19	Publish complete.
+10:12:19	Processed 1 section(s)
+10:12:19	Processed 1 config(s)
